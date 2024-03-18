@@ -10,6 +10,7 @@
   - ✉(QQ): CherishTheYouth@qq.com
   - ✉(iCloud): zyb.6616@icloud.com
   - ✉(Outlook): zyb.6616@outlook.com
+  - ✉(Gmail): robert.zeng.6616@gmail.com
   - ✉(weChat): 15827773695
 - 😄 Blog: [CherishTheYouth-掘金](https://juejin.cn/user/4248168662043367) | [CherishTheYouth-CSDN](https://blog.csdn.net/CherishTheYouth) | [CherishTheYouth-博客园](https://www.cnblogs.com/CherishTheYouth/)
   
